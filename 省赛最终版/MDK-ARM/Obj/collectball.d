@@ -1,0 +1,12 @@
+.\obj\collectball.o: Obj\collectball.c
+.\obj\collectball.o: Obj\collectball.h
+.\obj\collectball.o: ..\Libraries\CMSIS\stm32f4xx.h
+.\obj\collectball.o: ..\Libraries\CMSIS\core_cm4.h
+.\obj\collectball.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\collectball.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\obj\collectball.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\obj\collectball.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+.\obj\collectball.o: ..\Libraries\CMSIS\system_stm32f4xx.h
+.\obj\collectball.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\math.h
+.\obj\collectball.o: ..\Action_User\usart.h
+.\obj\collectball.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdlib.h
